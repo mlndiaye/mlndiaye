@@ -84,11 +84,6 @@ Real-time leak detection system using machine learning on sensor time-series dat
 
 ---
 
-## 📊 GitHub stats
-
-![Lamine's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlndiaye&show_icons=true&theme=default&hide_border=true)
-
----
 
 ## 🌍 Languages
 
@@ -96,4 +91,4 @@ Wolof (native) · French (C2) · English (B2, IELTS 6.0)
 
 ---
 
-⭐️ If you're a recruiter or engineer curious about my agent/RAG work, feel free to reach out — I'm always happy to talk through architecture and trade-offs.
+⭐️ If you're a recruiter or engineer curious about my agent/RAG work, feel free to reach out. I'm always happy to talk through architecture and trade-offs.
