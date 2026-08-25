@@ -21,8 +21,6 @@
 ![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat)
 ![MLOps](https://img.shields.io/badge/MLOps-0F9D58?style=flat)
 
-LangGraph (ReAct pattern) · RAG · Langfuse (LLM observability) · NLP · MLOps
-
 **Full-Stack**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
@@ -33,8 +31,6 @@ LangGraph (ReAct pattern) · RAG · Langfuse (LLM observability) · NLP · MLOps
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-
-Spring Boot · Django · REST APIs · microservices · React.js · Angular · Node.js · React Native (Expo) · Flutter
 
 **Infra & Data**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -49,8 +45,6 @@ Spring Boot · Django · REST APIs · microservices · React.js · Angular · No
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
-
-Docker · Kubernetes · OpenShift · Jenkins · CI/CD · AWS · Grafana · PostgreSQL · MySQL · MongoDB · Redis · Elasticsearch
 
 ---
 
