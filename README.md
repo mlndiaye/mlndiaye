@@ -2,7 +2,7 @@
 
 **Software & AI Engineer** — I build production AI agents (LangGraph, RAG) and full-stack applications, from architecture to deployment.
 
-🎓 Engineering degree in IT, École Polytechnique de Thiès (EPT), Senegal
+🎓 Engineering degree in IT, École Polytechnique de Thiès (EPT), Senegal — expected Jul 2026
 📍 Dakar, Senegal · open to remote / relocation
 📫 nidayeml@ept.sn · [LinkedIn](https://www.linkedin.com/in/mouhamadou-lamine-ndiaye)
 
@@ -11,28 +11,44 @@
 ## 🔧 What I work with
 
 **AI & Agents**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+![RAG](https://img.shields.io/badge/RAG-1C3C3C?style=flat)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=flat)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat)
+![MLOps](https://img.shields.io/badge/MLOps-0F9D58?style=flat)
 
 LangGraph (ReAct pattern) · RAG · Langfuse (LLM observability) · NLP · MLOps
 
 **Full-Stack**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 Spring Boot · Django · REST APIs · microservices · React.js · Angular · Node.js · React Native (Expo) · Flutter
 
 **Infra & Data**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat&logo=redhatopenshift&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 
 Docker · Kubernetes · OpenShift · Jenkins · CI/CD · AWS · Grafana · PostgreSQL · MySQL · MongoDB · Redis · Elasticsearch
 
@@ -40,7 +56,7 @@ Docker · Kubernetes · OpenShift · Jenkins · CI/CD · AWS · Grafana · Postg
 
 ## 🚀 Featured projects
 
-### 🦠 [Malware Classification with CNN](https://github.com/mlndiaye/REPO-NAME-HERE)
+### 🦠 [Malware Classification with CNN](https://github.com/mlndiaye/malware-detective)
 Lightweight CNN trained from scratch for malware detection, benchmarked against VGG16 and ResNet50.
 - **96% accuracy**, matching heavier pretrained baselines at a fraction of the compute cost
 - Full pipeline: data prep → training → evaluation → deployed inference API
