@@ -23,7 +23,6 @@
 ![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat)
 ![MLOps](https://img.shields.io/badge/MLOps-0F9D58?style=flat)
 
-LangGraph (ReAct pattern) · RAG · Langfuse (LLM observability) · NLP · MLOps
 
 **Full-Stack**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -37,7 +36,6 @@ LangGraph (ReAct pattern) · RAG · Langfuse (LLM observability) · NLP · MLOps
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
-Spring Boot · FastAPI · Django · REST APIs · microservices · React.js · Angular · Node.js · React Native (Expo) · Flutter
 
 **DevOps & Cloud**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
