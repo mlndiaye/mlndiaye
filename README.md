@@ -107,6 +107,8 @@ Real-time leak detection system using machine learning on sensor time-series dat
 
 ### 🥉 3rd Prize, SALTIS · Concours National d'Innovation Numérique *(Team Metal-X)*
 
+
+### NB :
 > Most of my recent production work (conversational AI at Senelec, a locally-hosted RAG assistant used by thousands of internship candidates at Sonatel, running on Ollama for data confidentiality) is closed-source / proprietary. Happy to walk through architecture and design decisions in an interview.
 
 
