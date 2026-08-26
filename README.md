@@ -109,8 +109,14 @@ Real-time leak detection system using machine learning on sensor time-series dat
 
 
 ### NB :
-> Most of my recent production work (conversational AI at Senelec, a locally-hosted RAG assistant used by thousands of internship candidates at Sonatel, running on Ollama for data confidentiality) is closed-source / proprietary. Happy to walk through architecture and design decisions in an interview.
 
+> Most of my production work is closed-source. Here is what I built:
+>
+> **Sonatel** — Full-stack internship management platform (Spring Boot + React) with a locally-hosted RAG assistant (Ollama, for data confidentiality) used by thousands of candidates, plus a LangGraph agent that queries both the database and the RAG to support HR teams.
+>
+> **Senelec** — Full-stack incident management system (Spring Boot + React + React Native/Expo mobile app) with a LangGraph agent using tool-calling to handle customer requests, and a Facebook agent that automatically responds to customer comments.
+>
+> Happy to walk through architecture and design decisions in an interview.
 
 ---
 
