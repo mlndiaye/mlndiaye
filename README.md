@@ -3,7 +3,9 @@
 **Software & AI Engineer** | Production AI agents (LangGraph, RAG) and full-stack applications, from architecture to deployment.
 
 🎓 Engineering degree in IT, École Polytechnique de Thiès (EPT), Senegal, Jul 2026
-📍 Dakar, Senegal · open to remote / relocation
+
+📍 Dakar, Senegal
+
 📫 nidayeml@ept.sn · [LinkedIn](https://www.linkedin.com/in/mouhamadou-lamine-ndiaye)
 
 ---
