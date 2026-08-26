@@ -84,8 +84,8 @@ Hands-on, structured experiments. Each lab is one repo with sub-projects going f
 | [rag-lab](https://github.com/mlndiaye/rag-lab) | RAG architectures: naive RAG → reranking → observability → agentic RAG | 🚧 In progress |
 | [data-engineering-lab](https://github.com/mlndiaye/data-engineering-lab) | Docker, ELT pipelines, Airflow, dbt | 🚧 In progress |
 | [ai-agents-lab](https://github.com/mlndiaye/ai-agents-lab) | LangGraph agents: ReAct, multi-agent, memory, tool-calling | 🔜 Coming soon |
-| [ml-lab](https://github.com/mlndiaye/ml-lab) | ML/DL experiments | 🔜 Coming soon |
 | [devops-lab](https://github.com/mlndiaye/devops-lab) | Docker, Kubernetes, CI/CD, monitoring | 🔜 Coming soon |
+| [ml-lab](https://github.com/mlndiaye/ml-lab) | ML/DL experiments | 🔜 Coming soon |
 
 ---
 
