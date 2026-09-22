@@ -1,6 +1,6 @@
 # Hi, I'm Mouhamadou Lamine Ndiaye 👋
 
-**Software & AI Engineer** | Production AI agents (LangGraph, RAG) and full-stack applications, from architecture to deployment.
+**Data & AI Engineer** | Production AI agents (LangGraph, RAG) and full-stack applications, from architecture to deployment.
 
 🎓 Engineering degree in IT, École Polytechnique de Thiès (EPT), Senegal, Jul 2026
 
@@ -81,11 +81,10 @@ Hands-on, structured experiments. Each lab is one repo with sub-projects going f
 | Lab | Focus | Status |
 |-----|-------|--------|
 | [data-engineering-lab](https://github.com/mlndiaye/data-engineering-lab) | Docker, ELT pipelines, Airbyte, BigQuery, Airflow, dbt | ☑️ OK |
-| [fullstack-lab](https://github.com/mlndiaye/fullstack-lab) | Spring Boot, Django, REST APIs — web services and API projects | 🚧 In progress |
 | [rag-lab](https://github.com/mlndiaye/rag-lab) | RAG architectures: naive RAG → reranking → observability → agentic RAG | 🚧 In progress |
 | [ai-agents-lab](https://github.com/mlndiaye/ai-agents-lab) | LangGraph agents: ReAct, multi-agent, memory, tool-calling | 🔜 Coming soon |
+| [ml-lab](https://github.com/mlndiaye/ml-lab) | ML/DL experiments | 🔜 Coming Soon |
 | [cloud-devops-lab](https://github.com/mlndiaye/cloud-devops-lab) | Docker, Kubernetes, AWS, CI/CD, monitoring | 🔜 Coming soon |
-| [ml-lab](https://github.com/mlndiaye/ml-lab) | ML/DL experiments | 🔜 Coming soon |
 
 ---
 
