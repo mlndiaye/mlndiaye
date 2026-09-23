@@ -107,7 +107,7 @@ Université Paris-Saclay · 2026–2027
 ---
 
 ## Languages: 
-**French : Courant · English B2 (IELTS 6/9) · Wolof (native)**
+**French : Courant · English B2 (IELTS 6/9) · Wolof (nati**
 
 ---
 
