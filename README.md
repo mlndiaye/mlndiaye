@@ -1,116 +1,97 @@
 # Mouhamadou Lamine NDIAYE
 
-### Data & AI Engineer | Data Engineering | Artificial Intelligence | Machine Learning
+### Data & AI Engineer · Data Engineering · Data Science/Machine Learning · LLM Agents
 
-I build data-intensive systems, machine learning solutions, and production-oriented AI applications.
+I build data systems end to end — from multi-source pipelines to forecasting models and LLM agents — and I measure whether they actually work.
 
-My work focuses on transforming data into reliable systems — from large-scale data pipelines and predictive models to LLM-powered applications and production ML workflows.
+Currently pursuing an **M2 DataScale (large-scale data management and knowledge extraction)** at **Université Paris-Saclay**.
 
-Currently pursuing an **M2 DataScale — Gestion de données et extraction de connaissances à large échelle** at **Université Paris-Saclay**.
-
----
-
-## 🚀 Portfolio
-
-A selection of end-to-end projects designed to demonstrate practical skills across the **Data & AI engineering stack**.
-
-### 🧠 Data Science & Machine Learning
-
-**[Energy Demand Forecasting](https://github.com/mlndiaye/energy-demand-forecasting)**
-
-End-to-end analysis and forecasting of energy consumption, covering data exploration, statistical analysis, feature engineering, model development, temporal validation and evaluation.
-
-`Python` `Pandas` `Scikit-learn` `XGBoost`
+📍 Paris area · 🔎 **Looking for a 6-month end-of-studies internship in Data / AI Engineering starting March 2027**
 
 ---
 
-### ⚡ Data Engineering & Big Data
+## 🚀 Featured Projects
 
-**[Large-Scale Data Platform](https://github.com/mlndiaye/large-scale-data-platform)**
+Three end-to-end projects built on real French public data, each designed around a concrete problem and evaluated against a meaningful baseline.
 
-An end-to-end data platform designed to ingest, process, transform and query large datasets using modern data engineering and distributed processing technologies.
+### ⚡ French Electricity Demand Forecasting · *ML + MLOps* · 🚧 In progress
 
-`Python` `Kafka` `PySpark` `Airflow` `dbt` `Trino` `PostgreSQL` `MinIO` `Docker`
+**[france-electricity-forecasting](https://github.com/mlndiaye/france-electricity-forecasting)**
 
----
+Day-ahead probabilistic forecasting of French electricity consumption, benchmarked daily against the official forecast published by RTE (the French grid operator). Covers the full lifecycle: automated data pipeline, rigorous time-series backtesting, prediction intervals, deployment and performance monitoring.
 
-### 🤖 AI Engineering
-
-**[Enterprise AI System](https://github.com/mlndiaye/enterprise-ai-system)**
-
-A production-oriented AI system combining document ingestion, retrieval, reranking, LLM orchestration, tool calling and systematic evaluation.
-
-`Python` `FastAPI` `LangGraph` `RAG` `pgvector` `LLMs` `Langfuse`
+`Python` `Polars` `LightGBM` `MLflow` `FastAPI` `Airflow` `Docker`
 
 ---
 
-### 🚀 MLOps & Production ML
+### 🏢 Unified French Business Registry · *Data Engineering + Big Data* · 🚧 In progress
 
-**[Production ML Platform](https://github.com/mlndiaye/production-ml-platform)**
+**[french-business-registry](https://github.com/mlndiaye/french-business-registry)**
 
-A complete machine learning lifecycle covering experiment tracking, model versioning, automated training, deployment, serving and monitoring.
+A multi-source ELT platform that ingests, cleans and links French public business data (SIRENE, BODACC, public procurement, certifications) into a single, historized company registry. Includes incremental loading, layered data modeling, data quality testing and large-scale entity resolution.
 
-`Python` `MLflow` `FastAPI` `Docker` `GitHub Actions`
+`Python` `PySpark` `dbt` `Airflow` `DuckDB` `MinIO` `Parquet` `Docker`
+
+---
+
+### 🤖 Energy Analyst Agent · *AI Engineering* · 🚧 In progress
+
+**[energy-analyst-agent](https://github.com/mlndiaye/energy-analyst-agent)**
+
+An LLM agent that answers analytical questions about the French power system by querying a data warehouse, calling a forecasting model and combining the results into verifiable answers. Evaluated on a custom benchmark for accuracy, tool use, cost and latency, comparing API-based and local models.
+
+`Python` `LangGraph` `MCP` `FastAPI` `Ollama` `Langfuse`
 
 ---
 
 ## 🔬 Technical Labs
 
-Experimental repositories exploring specific technologies, architectures and approaches.
+Experimental repositories exploring specific technologies and approaches.
 
 * **[Data Engineering Lab](https://github.com/mlndiaye/data-engineering-lab)** — Data pipelines, ELT, orchestration and analytics workflows.
-* **[RAG Lab](https://github.com/mlndiaye/rag-lab)** — RAG, reranking, multimodal retrieval, agentic workflows and LLM observability.
+* **[RAG Lab](https://github.com/mlndiaye/rag-lab)** — Retrieval, reranking, multimodal retrieval, agentic workflows and LLM observability.
 
 ---
 
 ## 🧰 Technical Stack
 
-**Languages**
+**Languages** — `Python` · `SQL` · `Java` · `JavaScript`
 
-`Python` · `SQL` · `Java` · `JavaScript` · `TypeScript`
+**Data Engineering** — `Airflow` · `dbt` · `Airbyte` · `PySpark` · `PostgreSQL` · `BigQuery` · `DuckDB`
 
-**Data Engineering**
+**Machine Learning** — `Scikit-learn` · `LightGBM` · `TensorFlow`
 
-`PySpark` · `Kafka` · `Airflow` · `dbt` · `Airbyte` · `PostgreSQL` · `BigQuery` · `Trino`
+**AI Engineering** — `LangChain` · `LangGraph` · `RAG` · `Embeddings` · `Vector Search` · `Ollama` · `Langfuse`
 
-**Machine Learning**
-
-`Scikit-learn` · `XGBoost` · `TensorFlow` · `PyTorch`
-
-**AI Engineering**
-
-`LangChain` · `LangGraph` · `RAG` · `LLMs` · `Embeddings` · `Vector Search` · `FastAPI` · `Langfuse`
-
-**MLOps & Infrastructure**
-
-`MLflow` · `Docker` · `GitHub Actions` · `OpenShift` · `REST APIs` · `Microservices`
+**MLOps & Software** — `MLflow` · `FastAPI` · `Docker` · `GitHub Actions` · `OpenShift` · `Spring Boot` · `Microservices`
 
 ---
 
-## 🏆 Distinctions
+## 🏆 Awards
 
 * 🥇 **1st Prize — SENELEC Hackathon**
 * 🥇 **1st Prize — Africa T-Awards**
 * 🥇 **1st Prize — SALTIS Innovation Contest**
-* 🥇 **1st Prize Innovation Award — JOJ Dakar 2026**
+* 🥇 **1st Prize, Innovation Award — JOJ Dakar 2026**
 
 ---
 
 ## 🎓 Education
 
-**M2 DataScale — Gestion de données et extraction de connaissances à grande échelle**
+**M2 DataScale — Large-Scale Data Management and Knowledge Extraction**
 Université Paris-Saclay · 2026–2027
 
-**Diplôme d'ingénieur de conception en Génie Informatique et Télécommunications — Mention Très Bien**
-École Polytechnique de Thiès
+**Engineering Degree in Computer Science and Telecommunications — Highest Honors (Mention Très Bien)**
+École Polytechnique de Thiès, Senegal
 
 ---
 
-## Languages: 
-**French : Courant · English B2 (IELTS 6/9) · Wolof (nati**
+## 🌍 Languages
+
+French (fluent) · English (B2, IELTS 6.0) · Wolof (native)
 
 ---
 
-## 📫 Connect
+## 📫 Contact
 
 [LinkedIn](https://www.linkedin.com/in/mouhamadou-lamine-ndiaye/) · [Email](mailto:mouhamadou-lamine.ndiaye16@ens.uvsq.fr)
