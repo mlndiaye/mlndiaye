@@ -106,6 +106,11 @@ Université Paris-Saclay · 2026–2027
 
 ---
 
+## Languages: 
+**French (C2) · English (B2) · Wolof (native)**
+
+---
+
 ## 📫 Connect
 
 [LinkedIn](https://www.linkedin.com/in/mouhamadou-lamine-ndiaye/) · [Email](mailto:mouhamadou-lamine.ndiaye16@ens.uvsq.fr)
