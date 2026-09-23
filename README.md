@@ -2,7 +2,7 @@
 
 ### Data & AI Engineer | Data Engineering | Artificial Intelligence | Machine Learning
 
-I build **data-intensive systems, machine learning solutions, and production-oriented AI applications**.
+I build data-intensive systems, machine learning solutions, and production-oriented AI applications.
 
 My work focuses on transforming data into reliable systems — from large-scale data pipelines and predictive models to LLM-powered applications and production ML workflows.
 
