@@ -92,7 +92,7 @@ Experimental repositories exploring specific technologies, architectures and app
 * 🥇 **1st Prize — SENELEC Hackathon**
 * 🥇 **1st Prize — Africa T-Awards**
 * 🥇 **1st Prize — SALTIS Innovation Contest**
-* 🏆 **Innovation Award — JOJ Dakar 2026**
+* 🥇 **1st Prize Innovation Award — JOJ Dakar 2026**
 
 ---
 
