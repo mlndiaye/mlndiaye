@@ -49,7 +49,6 @@ An LLM agent that answers analytical questions about the French power system by 
 Experimental repositories exploring specific technologies and approaches.
 
 * **[Data Engineering Lab](https://github.com/mlndiaye/data-engineering-lab)** — Data pipelines, ELT, orchestration and analytics workflows.
-* **[RAG Lab](https://github.com/mlndiaye/rag-lab)** — Retrieval, reranking, multimodal retrieval, agentic workflows and LLM observability.
 
 ---
 
