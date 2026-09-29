@@ -6,7 +6,8 @@ I build data systems end to end — from multi-source pipelines to forecasting m
 
 Currently pursuing an **M2 DataScale (large-scale data management and knowledge extraction)** at **Université Paris-Saclay**.
 
-📍 Paris area · 🔎 **Looking for a 6-month end-of-studies internship in Data / ML / AI Engineering starting March 2027**
+📍 Île-de-France area · 
+🔎 **Looking for a 6-month end-of-studies internship in Data / ML / AI Engineering starting March 2027**
 
 ---
 
