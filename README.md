@@ -18,9 +18,9 @@ Three end-to-end projects built on real French public data, each designed around
 
 **[france-electricity-forecasting](https://github.com/mlndiaye/france-electricity-forecasting)**
 
-Day-ahead probabilistic forecasting of French electricity consumption, benchmarked daily against RTE's official forecast. Full pipeline built and backtested over a full year: gradient-boosted point forecast beats a seasonal-naive baseline by 65% MAE and matches RTE's own forecast (1,286 vs. 1,298 MW MAE); error analysis by day type and a first multi-quantile prediction interval, evaluated and found under-calibrated — a documented, unresolved limitation motivating a follow-up conformal-prediction pass. Currently extending toward daily automation, a model registry, and a monitoring dashboard.
+Day-ahead probabilistic forecasting of French electricity consumption, benchmarked daily against RTE's official forecast. Full pipeline built and backtested over a full year: gradient-boosted point forecast beats a seasonal-naive baseline by 65% MAE and matches RTE's own forecast (1,286 vs. 1,298 MW MAE); error analysis by day type and a first multi-quantile prediction interval, evaluated and found under-calibrated — a documented, unresolved limitation motivating a follow-up conformal-prediction pass. Now runs automatically once a day via Airflow, with every prediction tracked in MLflow and served through a read-only API and a Streamlit dashboard. Next: deploying it publicly.
 
-`Python` `pandas` `LightGBM` `scikit-learn` `MLflow` `FastAPI` `Airflow` `Docker`
+`Python` `pandas` `LightGBM` `scikit-learn` `MLflow` `FastAPI` `Airflow` `Streamlit` `Docker`
 
 ---
 
