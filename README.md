@@ -16,7 +16,7 @@ Currently pursuing an **M2 DataScale (large-scale data management and knowledge 
 
 Three end-to-end projects built on real French public data, each designed around a concrete problem and evaluated against a meaningful baseline.
 
-### ⚡ French Electricity Demand Forecasting · *ML + MLOps* · 🚧 In progress
+### ⚡ French Electricity Demand Forecasting · *ML + MLOps*
 
 **[france-electricity-forecasting](https://github.com/mlndiaye/france-electricity-forecasting)**
 
