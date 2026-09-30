@@ -58,13 +58,15 @@ Experimental repositories exploring specific technologies and approaches.
 
 **Languages** — `Python` · `SQL` · `Java` · `JavaScript`
 
-**Data Engineering** — `Airflow` · `dbt` · `Airbyte` · `PySpark` · `PostgreSQL` · `BigQuery` · `DuckDB`
+**Data Engineering** — `Airflow` · `dbt` · `Airbyte` · `Spark` · `PostgreSQL` · `BigQuery` · `Snowflake` · `Databricks`
 
 **Machine Learning** — `Scikit-learn` · `LightGBM` · `TensorFlow`
 
 **AI Engineering** — `LangChain` · `LangGraph` · `RAG` · `Embeddings` · `Vector Search` · `Ollama` · `Langfuse`
 
 **MLOps & Software** — `MLflow` · `FastAPI` · `Docker` · `GitHub Actions` · `OpenShift` · `Spring Boot` · `Microservices`
+
+**Cloud & DevOps** — `AWS` · `CI/CD` · `Github Actions` · `gitlab CI` · `Jenkins`
 
 ---
 
