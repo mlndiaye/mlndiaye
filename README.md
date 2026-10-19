@@ -30,9 +30,9 @@ Day-ahead probabilistic forecasting of French electricity consumption, benchmark
 
 **[french-business-registry](https://github.com/mlndiaye/french-business-registry)**
 
-A multi-source ELT platform that ingests, cleans and links French public business data (SIRENE, BODACC, public procurement, certifications) into a single, historized company registry. Includes incremental loading, layered data modeling, data quality testing and large-scale entity resolution.
+A multi-source ELT platform that ingests, cleans and links French public business data into a single, historized company registry, served through a REST API. Three sources linked so far: the official company registry (SIRENE), legal announcements (BODACC, resolved via an exact/fuzzy/unresolved cascade with Splink) and public procurement awards (DECP). Each link type is historized with SCD2, tested with dbt, orchestrated daily with Airflow, and measured honestly — including a blind-holdout precision/recall evaluation for the fuzzy matcher and a data-quality coverage report for procurement links.
 
-`Python` `PySpark` `dbt` `Airflow` `DuckDB` `MinIO` `Parquet` `Docker`
+`Python` `PySpark` `Splink` `dbt` `Airflow` `PostgreSQL` `FastAPI` `Docker`
 
 ---
 
