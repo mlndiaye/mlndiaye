@@ -26,7 +26,7 @@ Day-ahead probabilistic forecasting of French electricity consumption, benchmark
 
 ---
 
-### 🏢 Unified French Business Registry · *Data Engineering + Big Data* · 🚧 In progress
+### 🏢 Unified French Business Registry · *Data Engineering + Big Data* 
 
 **[french-business-registry](https://github.com/mlndiaye/french-business-registry)**
 
