@@ -40,9 +40,9 @@ A multi-source ELT platform that ingests, cleans and links French public busines
 
 **[energy-analyst-agent](https://github.com/mlndiaye/energy-analyst-agent)**
 
-An LLM agent that answers analytical questions about the French power system by querying a data warehouse, calling a forecasting model and combining the results into verifiable answers. Evaluated on a custom benchmark for accuracy, tool use, cost and latency, comparing API-based and local models.
+An LLM agent that answers analytical questions about the French power system by querying a DuckDB data warehouse — fully backfilled from two real public APIs (RTE éCO2mix + ENTSO-E) — calling a forecasting model, and combining the results into verifiable answers. Evaluated on a custom 15-question benchmark for accuracy, tool use, cost and latency, comparing Gemini against two local Ollama models. A first real run already produced a genuine, honestly-reported finding: the local models guess at the SQL schema instead of exploring it first — a real capability gap, not a benchmark bug. A complete, fair comparison is next, pending the forecasting API running continuously and a cleared LLM quota.
 
-`Python` `LangGraph` `MCP` `FastAPI` `Ollama` `Langfuse`
+`Python` `LangGraph` `MCP` `FastAPI` `DuckDB` `Gemini` `Ollama` `Langfuse`
 
 ---
 
